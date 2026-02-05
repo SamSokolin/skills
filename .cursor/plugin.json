@@ -8,6 +8,6 @@
     "url": "https://workers.cloudflare.com"
   },
   "keywords": ["cloudflare", "workers", "durable-objects", "agents", "mcp", "wrangler", "serverless", "compute", "storage", "applications"],
-  "logo": "./logo.svg",
+  "logo": "https://raw.githubusercontent.com/cloudflare/skills/main/logo.svg",
   "primaryColor": "#EC582A"
 }
